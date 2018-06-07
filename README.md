@@ -1,3 +1,3 @@
 # Landing Page
 
-<h2><a href="https://bahenty.github.io/">Visit the web site!</a></h2>
+<h2><a href="https://bahenty.github.io/Land-page/">Visit the web site!</a></h2>
